@@ -1,2 +1,0 @@
-# MahjongGame
-Mahjong Game
